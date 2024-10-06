@@ -1,4 +1,6 @@
 
 
 
-/notebooks/models/t5-baseline/*
+/notebooks/models/*
+
+.venv/
